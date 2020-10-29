@@ -2,7 +2,7 @@ from .df_utils import ONES, ZEROS
 import pandas as pd
 import numpy as np
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 my_str = "This is my string from __init__.py"
 day_month_year = def day_month_year(df, column):
     df =df.copy()
